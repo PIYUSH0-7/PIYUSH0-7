@@ -62,6 +62,13 @@
 ## ⏱️ Coding Activity (Wakatime)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Piyush07&theme=tokyonight&hide_border=true" />
+
+<a href="https://wakatime.com/@Piyush07">
+  <img src="https://wakatime.com/badge/user/waka_4907344f-685d-409a-9a41-1a75a9eaeeeb.svg" alt="Wakatime badge" />
+</a>
+
+### 📊 Weekly Coding Stats
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Piyush07&layout=compact)](https://wakatime.com/@Piyush07)
+
 </p>
 
