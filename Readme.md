@@ -38,3 +38,24 @@
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSH0-7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+## 🧩 Featured Projects
+
+> These are some of the projects I'm building as I learn full-stack development.
+
+### 🚀 Full Stack & Web Development
+- 🔗 **Project 1 — Coming Soon**  
+  _MERN / Next.js based project will appear here_
+
+- 🔗 **Project 2 — Coming Soon**  
+  _AI / Automation based project will appear here_
+
+### 🧠 DSA & Problem Solving
+- 📘 **LeetCode Solutions Repo — https://github.com/PIYUSH0-7/LeetCode-Proofs-DSA-Practice-**
+
+---
+
+<p align="center">
+  <i>New projects will be added soon as I continue my developer journey.</i>
+</p>
+
