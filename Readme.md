@@ -7,49 +7,48 @@
 </div>
 
 <div align="center">
-
-
 </div>
 
-👨‍💻 About Me
+<h1 align="center">Hi 👋, I'm Piyush Gangwar</h1>
+<h3 align="center">Full Stack Developer in progress | AI & Automation Enthusiast</h3>
 
-const piyush = {
-  location: "Ghaziabad, India 🇮🇳",
-  education: "B.Tech in IT @ ABES Engineering College",
-  currentFocus: ["Full Stack Development", "React Native Apps", "AI Integration"],
-  learning: ["Next.js 14", "TypeScript", "System Design", "DevOps"],
-  goals2027: "Building 10+ production-ready projects & contribute to open source",
-  funFact: "I debug with console.log() and I'm not ashamed! 😄",
-  askMeAbout: ["MERN Stack", "React Native", "DSA", "Competitive Programming"],
-  reachMe: "piyushgangwar1247@gmail.com"
-};
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+</p>
 
+## 🚀 Skills & Technologies
 
-🛠️ Tech Stack
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+### 🛠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub Stats
 <div align="center">
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=piyush0-7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush0-7&theme=tokyonight&hide_border=true" />
+</p>
 
-💻 Languages & Frameworks
-
-⚛️ Frontend Development
-
-🔧 Backend & Database
-
-🧰 Tools & Technologies
-
-</div>
-
-📊 GitHub Statistics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PIYUSH0-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSH0-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
-</div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PIYUSH0-7&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PIYUSH0-7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush0-7&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 </div>
 
 🐍 Contribution Snake
@@ -62,86 +61,44 @@ const piyush = {
 </picture>
 </div>
 
-🚀 Featured Projects
+## 🧩 Featured Projects
 
-<div align="center">
+> These are some of the projects I'm building as I learn full-stack development.
 
-💼 Full Stack Applications
+### 🚀 Full Stack & Web Development
+- 🔗 **Project 1 — Coming Soon**  
+  _MERN / Next.js based project will appear here_
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">🎯 Task Management Pro</h3>
-<div align="center">
-<a href="https://github.com/PIYUSH0-7/task-manager-mern" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PIYUSH0-7&repo=task-manager-mern&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Task Manager" />
-</a>
-<p><strong>MERN Stack</strong> - Full-featured task management with JWT auth, real-time updates</p>
-<p>
-<a href="https://github.com/PIYUSH0-7/task-manager-mern" target="_blank">
-<img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.google.com/search?q=%23" target="_blank">
-<img src="https://img.shields.io/badge/Demo-Live-green?style=for-the-badge&logo=vercel"/>
-</a>
+- 🔗 **Project 2 — Coming Soon**  
+  _AI / Automation based project will appear here_
+
+### 🧠 DSA & Problem Solving
+- 📘 **LeetCode Solutions Repo —** [Visit Repository](https://github.com/PIYUSH0-7/LeetCode-Proofs-DSA-Practice-)
+
+---
+
+<p align="center">
+  <i>New projects will be added soon as I continue my developer journey.</i>
 </p>
-</div>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">📱 Chat App React Native</h3>
+
+## ⏱️ Coding Activity (Wakatime)
+
 <div align="center">
-<a href="https://github.com/PIYUSH0-7/chat-app-native" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PIYUSH0-7&repo=chat-app-native&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Chat App" />
-</a>
-<p><strong>React Native + Firebase</strong> - Real-time messaging with media sharing</p>
-<p>
-<a href="https://github.com/PIYUSH0-7/chat-app-native" target="_blank">
-<img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Piyush07&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<h3 align="center">💬 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://github.com/PIYUSH0-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/piyush070/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-</div>
-</td>
-</tr>
-</table>
-
-🧠 DSA & Problem Solving
-
-📘 LeetCode Solutions Repository →
-
-</div>
-
-📈 Coding Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Piyush07&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="Wakatime Stats"/>
-</div>
-
-💡 What I'm Working On
-
-current_projects:
-  - name: "E-Commerce Platform"
-    tech: ["Next.js 14", "Stripe", "PostgreSQL"]
-    status: "In Progress 🔨"
-  - name: "AI Resume Builder"
-    tech: ["React", "OpenAI API", "Node.js"]
-    status: "Planning Phase 📋"
-
-learning_path:
-  - System Design & Architecture
-  - AWS & Cloud Services
-  - Advanced TypeScript Patterns
-  - Microservices with Docker & Kubernetes
-
-
-🤝 Let's Connect!
-
-<div align="center">
-
-
-
-
-</div>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
@@ -150,9 +107,6 @@ learning_path:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-<div align="center">
-
-💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-⭐️ Thanks for visiting! Feel free to star my repositories if you find them helpful! ⭐️
-</div>
+<p align="center">
+  <b>⭐️⭐️ Thanks for visiting! Feel free to star my repositories if you find them helpful! ⭐️⭐️</b>
+</p>
