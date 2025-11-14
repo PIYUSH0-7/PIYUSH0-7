@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Piyush Gangwar</h1>
-<h3 align="center">Full Stack Developer in progress | AI & Automation Enthusiast</h3>
+<h3 align="center">Full Stack Developer | AI & Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+---
 
 ## 🚀 Skills & Technologies
 
 ### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -28,55 +30,57 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-<div align="center">
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=piyush0-7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush0-7&theme=tokyonight&hide_border=true" />
-</p>
+---
 
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush0-7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=PIYUSH0-7&show_icons=true&theme=tokyonight&hide_border=true" alt="Top GitHub Stats" />
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=PIYUSH0-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSH0-7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
+---
 
 ## 🧩 Featured Projects
 
 > These are some of the projects I'm building as I learn full-stack development.
+>
+> [🌟 See More On My GitHub](https://github.com/PIYUSH0-7?tab=repositories)
 
 ### 🚀 Full Stack & Web Development
-- 🔗 **Project 1 — Coming Soon**  
-  _MERN / Next.js based project will appear here_
+- 🔗 **SmartTasks App**  
+  _A MERN & Next.js task manager for productivity. [Code & Demo](https://github.com/PIYUSH0-7/smarttasks-app)_
+  - Features: CRUD, JWT Auth, Responsive UI
 
-- 🔗 **Project 2 — Coming Soon**  
-  _AI / Automation based project will appear here_
+- 🔗 **AutoResume Builder**  
+  _AI-powered resume creator, automating ATS optimization. [Code & Demo](https://github.com/PIYUSH0-7/autoresume-builder)_
+  - Features: PDF Export, Analytics
 
 ### 🧠 DSA & Problem Solving
-- 📘 **LeetCode Solutions Repo —** [Visit Repository](https://github.com/PIYUSH0-7/LeetCode-Proofs-DSA-Practice-)
+- 📘 **LeetCode Solutions Repo**  
+  [Visit Repository](https://github.com/PIYUSH0-7/LeetCode-Proofs-DSA-Practice-)
+  - Solved: 300+ LeetCode, InterviewBit problems
 
 ---
-
-<p align="center">
-  <i>New projects will be added soon as I continue my developer journey.</i>
-</p>
 
 ## ⏱️ Coding Activity (Wakatime)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Piyush07&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Piyush07&theme=tokyonight&hide_border=true" alt="Wakatime Stats"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<h3 align="center">💬 Connect With Me</h3>
+---
 
+<h3 align="center">💬 Connect With Me</h3>
 <p align="center">
-  <a href="https://github.com/PIYUSH0-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/piyush070/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/PIYUSH0-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/piyush070/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
