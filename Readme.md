@@ -59,6 +59,7 @@
   <i>New projects will be added soon as I continue my developer journey.</i>
 </p>
 
+<p align="center">
 ## ⌨️ Coding Activity (WakaTime)
 
 <a href="https://wakatime.com/@Piyush07">
@@ -68,3 +69,4 @@
 ### 📊 Weekly Coding Stats
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Piyush07&layout=compact)](https://wakatime.com/@Piyush07)
+</p>
