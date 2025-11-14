@@ -59,3 +59,9 @@
   <i>New projects will be added soon as I continue my developer journey.</i>
 </p>
 
+## ⏱️ Coding Activity (Wakatime)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Piyush07&theme=tokyonight&hide_border=true" />
+</p>
+
