@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
+
 ## 🚀 Skills & Technologies
 
 ### 🌐 Frontend
@@ -26,3 +27,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=PIYUSH0-7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=PIYUSH0-7&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSH0-7&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
