@@ -1,155 +1,148 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Piyush%20Gangwar&fontSize=60&color=gradient&fontColor=ffffff&animation=twinkling&reversal=true"/> </div> <h2 align="center">🚀 Full Stack Developer | React Native | AI Apprentice | 3rd Year IT Student</h2> <p align="center"> I build polished, modern applications with clean UI, scalable systems and a spark of AI.<br/> <strong>Future Vision → India's Top 1% Developer.</strong> </p> <br/> <div align="center">
+The Developer With Protagonist Energy ⚔️🔥
+<div align="center"> <img src="https://i.imgur.com/MX6f0rO.gif" width="100%" /> </div> <h1 align="center">⚔️ Piyush Gangwar — The Rising Full Stack Shinobi ⚔️</h1> <p align="center"> 3rd Year IT Student • Full Stack Developer • React Native • AI Explorer<br/> Walking the <strong>Shinobi Path</strong> of Code to become a <strong>Top 1% Developer</strong>. </p> <br/> <div align="center">
+
+
+
+
+
+
 </div>
-🧬 My Digital Blueprint (Final Form Version)
+🥷 Character Profile – Dev Shinobi Form
 const Piyush = {
-  status: "3rd Year IT Student (ABES EC)",
-  mission: "Build world-class full-stack, mobile & AI-powered apps",
-  identity: "God-mode developer in training",
-  currentFocus: ["Next.js 15", "React Native", "System Design", "AI Agents"],
-  strengths: ["Consistency", "Deep Work", "Fast Learning", "Execution"],
-  2025Goals: {
-    projects: "10 production-grade apps",
-    internship: "Top-tier tech company",
-    mastery: ["System Design", "AI Integration", "Cloud"],
-  },
-  philosophy: "Code. Improve. Repeat.",
+  clan: "ABES Engineering College",
+  rank: "3rd Year IT Shinobi",
+  chakraNature: ["JavaScript", "React", "Node.js", "AI"],
+  currentTraining: ["Next.js 15", "React Native", "AI Agents"],
+  nindo: "Consistency is my ninja way.",
+  dreamArc: "Become a Legendary Full-Stack Developer"
 };
 
-🪩 Ultra Premium Skills (Glassmorphism Sections)
-🌐 Frontend Magic
+🌈 Battle Stats – Developer Skill Arc
+🌸 Frontend (Sakura Style)
+
+React ⚡⚡⚡⚡
+
+Next.js ⚡⚡⚡
+
+Tailwind ⚡⚡⚡⚡
+
+TypeScript ⚡⚡⚡
+
+🔥 Backend (Flame Hashira Style)
+
+Node.js ⚔️⚔️⚔️⚔️
+
+Express ⚔️⚔️⚔️
+
+MongoDB 🍃🍃🍃🍃
+
+PostgreSQL 🐘🐘🐘
+
+🤖 AI Techniques (Madara Mode)
+
+OpenAI API
+
+Prompt Engineering
+
+AI Automations
+
+Chatbot Logic
+
+⚙️ Ninja Tools
+
+Git • Docker • VS Code • Firebase
+
+Vercel • Railway • Linux Basics
+
+<div align="center"> <img src="https://i.imgur.com/jxJgXFP.gif" width="250px"> </div>
+🗡️ Skill Progress Bars (Anime XP Bar)
+Skill	Level
+🧠 DSA	███████░░░░ 65%
+⚛️ React	██████████░ 90%
+⚡ Next.js	████████░░ 80%
+🔥 Node.js	███████░░░ 70%
+🤖 AI Skills	██████░░░░ 60%
+📱 React Native	███████░░░ 70%
+🌌 Featured Anime Project Cards
 <div align="center">
+🛒 E-Commerce Platform — "Marketplace no Jutsu"
 
-React • Next.js 14/15 • React Native • JavaScript • TypeScript
-TailwindCSS • Redux Toolkit • UI/UX Mindset
+Next.js • PostgreSQL • Stripe
+A premium-level commerce world.
 
-</div>
-🔥 Backend Arsenal
-<div align="center">
-
-Node.js • Express • MongoDB • PostgreSQL • Firebase
-REST APIs • Auth Systems • Webhooks • Sessions/JWT
-
-</div>
-🤖 AI & Automation Toolkit
-<div align="center">
-
-OpenAI API • Prompt Engineering • AI Bots • LLM Integration
-Automation Scripts • Chatbot Logic (Beginner → Intermediate)
-
-</div>
-🧰 Tools Level: Advanced Student
-<div align="center">
-
-Git • GitHub • Docker • VS Code • Postman • Linux Basics • Firebase Console
-Vercel • Railway • Cloudflare • Netlify
-
-</div>
-🌟 Signature Premium Section – My Brand
-<div align="center">
-
-🌀 Identity: A student who builds like a professional.
-⚡ Edge: Fast learner + high execution + clean UI obsession.
-🎯 Goal: Full Stack × AI × Mobile = Complete Developer Package.
-🔥 Speciality: Turning ideas → polished real-world apps.
-
-</div>
-🧭 Experience Timeline — The Growth Journey
-2022 — Entered B.Tech IT  
-2023 — Learned HTML, CSS, JS, React  
-2024 — Built first MERN & React Native projects  
-2024 — Started integrating OpenAI APIs  
-2025 — Building production-grade apps + learning AI Agents  
-2025 — Preparing for Internship + System Design  
-2026 — Final Year + Major Project + Industry-ready  
-
-🛡️ God-Tier Project Deck (Final Form Cards)
-<div align="center">
-🛒 E-Commerce Platform – Ultra UI
-
-Next.js 14 • PostgreSQL • Stripe
-Modern payments, admin dashboard, filters, analytics.
-
-<img src="https://via.placeholder.com/900x400?text=E-Commerce+Project+Premium+Screenshot" />
-📱 Chat App – Premium Real-Time Experience
+<img src="https://via.placeholder.com/900x400?text=E-Commerce+Shinobi+Screenshot" />
+📱 Chat App — "Real-Time Summoning"
 
 React Native • Firebase
-Typing indicators • online status • media + push notifications.
+Messages fly like chakra beams ⚡
 
 🔗 Code: https://github.com/PIYUSH0-7/chat-app-native
 
-<img src="https://via.placeholder.com/900x400?text=Chat+App+Premium+Screenshot" />
+<img src="https://via.placeholder.com/900x400?text=Chat+App+Anime+Screenshot" />
 
-🤖 AI Resume Builder – Final Form App
+🤖 AI Resume Builder — "Intelligent Transformation Jutsu"
 
 React • OpenAI • Node.js
-ATS-friendly resume generator with instant tips.
+Convert your skills → OP Resume 💥
 
-<img src="https://via.placeholder.com/900x400?text=AI+Resume+Builder+Screenshot" />
-🎯 Task Manager Pro – Real-time Productivity
+<img src="https://via.placeholder.com/900x400?text=AI+Resume+Builder+Anime+Shot" />
+🎯 Task Manager Pro — "Productivity Style: Multi-Shadow Task Clone"
 
 MERN Stack
-Auth • Roles • Real-time updates • Tags • Filters.
+Your tasks follow orders like ninja clones.
 
-<img src="https://via.placeholder.com/900x400?text=Task+Manager+Screenshot" />
+<img src="https://via.placeholder.com/900x400?text=Task+Manager+Anime+Screenshot" />
 </div>
-🔭 2025 Learning Map — The Path to God Mode
-🧠 Core Tech Level Up
+🎓 Education Arc
 
-System Design
+📘 B.Tech IT – ABES Engineering College
+2022–2026 | 3rd Year Shinobi in Training
 
-Next.js 15 App Router
+Ninja Training Subjects:
 
-PostgreSQL Deep Dive
+DSA
 
-React Native Advanced
+Operating Systems
 
-Docker & Cloud Basics
+DBMS
 
-🤖 AI Upgrade
+Computer Networks
 
-AI Agents (CrewAI, LangChain)
+Web Dev
 
-RAG Basics
+Mobile Dev
 
-Vector Databases
+AI Basics
 
-Chatbot Fine-Tuning
+⚔️ Training Timeline (Anime Version)
+2022 — Academy Entrance: Basic HTML, CSS  
+2023 — Chakra Awakening: JS, React  
+2023 — First Missions: Mini Projects  
+2024 — Power-Up Arc: MERN, React Native  
+2024 — Secret Techniques: OpenAI APIs  
+2025 — Sage Mode: System Design, Next.js 15  
+2025 — Internship Hunt Arc (Boss Battle)  
+2026 — Final Year: Legendary Developer Evolution  
 
-🚀 Career Prep
-
-DSA + Patterns
-
-OS + DBMS + CN
-
-Resume + LinkedIn Optimization
-
-10 Projects + 1 Major Project
-
-✨ GitHub Performance Aura
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=PIYUSH0-7&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSH0-7&layout=compact&theme=tokyonight&hide_border=true" />
+🌟 GitHub Combat Stats
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=PIYUSH0-7&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSH0-7&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PIYUSH0-7&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=PIYUSH0-7&theme=tokyonight&no-frame=true&no-bg=true&column=7" /> </div>
-🐍 Contribution Snake (Dark Mode)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PIYUSH0-7&theme=tokyonight&hide_border=true" /> </div>
+🐍 Snake Animation (Anime Dark Mode)
 <div align="center"> <img src="https://raw.githubusercontent.com/PIYUSH0-7/PIYUSH0-7/output/github-contribution-grid-snake-dark.svg" /> </div>
-🌈 Philosophy – The Mindset That Wins
+🌠 Developer Philosophy (Anime Wisdom)
 
-“You don't need to be the best.
-You need to be the one who disciplines himself to show up every day.”
+“Even if you’re weak… even if you’re a beginner…
+your consistency can surpass natural talent.”
 
-“Ship fast. Improve daily. Focus deeply.”
+“Real power is built one commit at a time.”
 
-“The future belongs to those who build.”
+“Those who don’t give up… become legends.”
 
-🧲 Hire Me / Connect / Collaborate
+🤝 Let’s Join Forces — Build Something Legendary
 <div align="center">
-</div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=0,10,20" /> </div> <h2 align="center">🔥 You’ve reached the FINAL FORM. No student README can surpass this. 🔥</h2>
 
 
 
@@ -157,4 +150,4 @@ You need to be the one who disciplines himself to show up every day.”
 
 
 </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=0,10,20" /> </div> <h2 align="center">🔥 You’ve reached the FINAL FORM. No student README can surpass this. 🔥</h2>
+<div align="center"> <img src="https://i.imgur.com/c7eO7k3.gif" width="100%" /> </div> <h2 align="center">🔥 This is the ANIME GOD MODE README. No one in college will have a README like this. 🔥</h2>
