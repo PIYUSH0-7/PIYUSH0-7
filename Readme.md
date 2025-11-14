@@ -29,7 +29,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
-
+<div align="center">
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=piyush0-7&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush0-7&theme=tokyonight&hide_border=true" />
@@ -38,6 +38,7 @@
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush0-7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+</div>
 
 ## 🧩 Featured Projects
 
@@ -62,7 +63,7 @@
 ## ⏱️ Coding Activity (Wakatime)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Piyush07&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Piyush07&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
