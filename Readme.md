@@ -59,14 +59,25 @@
   <i>New projects will be added soon as I continue my developer journey.</i>
 </p>
 
+## ⏱️ Coding Activity (Wakatime)
+
 <p align="center">
-## ⌨️ Coding Activity (WakaTime)
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Piyush07&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://wakatime.com/@Piyush07">
-  <img src="https://wakatime.com/badge/user/waka_4907344f-685d-409a-9a41-1a75a9eaeeeb.svg" alt="Wakatime badge" />
-</a>
+---
 
-### 📊 Weekly Coding Stats
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Piyush07&layout=compact)](https://wakatime.com/@Piyush07)
+<h3 align="center">💬 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://github.com/PIYUSH0-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/piyush070/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <b>⭐️ Thanks for visiting my profile! ⭐️</b>
 </p>
