@@ -16,6 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </div>
 
+<div align="center">
 ## 🚀 Skills & Technologies
 
 ### 🌐 Frontend
@@ -38,14 +39,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ## 📊 GitHub Stats
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PIYUSH0-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSH0-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
-</div>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PIYUSH0-7&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=piyush0-7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush0-7&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush0-7&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 </div>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=PIYUSH0-7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
