@@ -2,11 +2,11 @@
 <h3 align="center">Full Stack Developer in progress | AI & Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ## 🚀 Skills & Technologies
-<br>
+
 ### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,24 +27,21 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<br/>
 
 ## 📊 GitHub Stats
-<br>
 <div align="center">
-  <p>
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=piyush0-7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush0-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=piyush0-7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush0-7&theme=tokyonight&hide_border=true" />
+</p>
 
-  <p>
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush0-7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush0-7&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 </div>
-<br/>
 
 ## 🧩 Featured Projects
-<br>
+
 > These are some of the projects I'm building as I learn full-stack development.
 
 ### 🚀 Full Stack & Web Development
@@ -62,26 +59,24 @@
 <p align="center">
   <i>New projects will be added soon as I continue my developer journey.</i>
 </p>
-<br/>
 
 ## ⏱️ Coding Activity (Wakatime)
-<br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Piyush07&theme=tokyonight&hide_border=true" alt="Wakatime coding activity" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Piyush07&theme=tokyonight&hide_border=true" />
 </p>
-<br/>
+
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
-<br>
 
 <h3 align="center">💬 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://github.com/PIYUSH0-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/piyush070/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/PIYUSH0-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/piyush070/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
