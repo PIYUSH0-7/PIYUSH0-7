@@ -1,72 +1,37 @@
-name: Update Repo Cards in README
+name: Update Repository List in README
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: '0 2 * * *'  # Every day at 2 AM UTC
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  update-repo-list:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install jq
-        run: sudo apt-get update && sudo apt-get install -y jq
+      - name: Run README Repos List action
+        uses: joncalhoun/README-Repos-List@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          readme-path: README.md
+          start-marker: '<!-- REPO-LIST:START -->'
+          end-marker: '<!-- REPO-LIST:END -->'
+          include-forks: false
+          include-archived: false
+          sort: updated
+          max-repos: 30
 
-      - name: Generate repo cards
-        run: |
-          USER="${{ github.repository_owner }}"
-          curl -s "https://api.github.com/users/$USER/repos?per_page=100&sort=updated" > repos.json
-
-          echo "<div align='center'><table><tbody><tr>" > repo_cards.md
-          COL=0
-          for repo in $(jq -r '.[].name' repos.json); do
-            desc=$(jq -r ".[] | select(.name==\"$repo\") | .description" repos.json)
-            [ "$desc" = "null" ] && desc="No description"
-
-            echo "<td width='300' style='border:1px solid #ccc;padding:10px;vertical-align:top'>" >> repo_cards.md
-            echo "<h3><a href='https://github.com/$USER/$repo'>$repo</a></h3>" >> repo_cards.md
-            echo "<p>$desc</p>" >> repo_cards.md
-            echo "<p>" >> repo_cards.md
-            echo "<img src='https://img.shields.io/github/stars/$USER/$repo?style=social'/> " >> repo_cards.md
-            echo "<img src='https://img.shields.io/github/forks/$USER/$repo'/> " >> repo_cards.md
-            echo "<img src='https://img.shields.io/github/languages/top/$USER/$repo'/>" >> repo_cards.md
-            echo "</p>" >> repo_cards.md
-            echo "</td>" >> repo_cards.md
-
-            COL=$((COL+1))
-            if [ "$COL" -eq 3 ]; then
-              echo "</tr><tr>" >> repo_cards.md
-              COL=0
-            fi
-          done
-          echo "</tr></tbody></table></div>" >> repo_cards.md
-
-      - name: Inject cards into README.md
-        run: |
-          FILE="README.md"
-          START="<!-- REPO-CARDS:START -->"
-          END="<!-- REPO-CARDS:END -->"
-          # Ensure file exists
-          if [ ! -f "$FILE" ]; then
-            echo "❌ README.md not found"
-            exit 1
-          fi
-
-          # Use awk to swap content
-          awk -v start="$START" -v end="$END" 'NR==FNR{a=a $0 "\n";next} {if($0==start){print;print a;f=1} else if($0==end){f=0} else if(!f) print}' repo_cards.md "$FILE" > new.md
-          mv new.md "$FILE"
-
-      - name: Commit & Push
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Updated repo cards" || echo "No update"
+          git commit -m "Update repository list" || echo "No changes to commit"
           git push
