@@ -87,9 +87,8 @@
 ## 🧩 All Repositories
 
 <!-- REPO-CARDS:START -->
+Loading repo cards...
 <!-- REPO-CARDS:END -->
-
-
 
 ---
 
@@ -132,6 +131,7 @@
 <div align="center">
   <b>⭐️⭐️ Thanks for visiting! Feel free to star my repositories if you find them helpful! ⭐️⭐️</b>
 </div>
+
 
 
 
