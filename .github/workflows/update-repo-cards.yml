@@ -50,23 +50,31 @@ jobs:
 
           echo "</tr></tbody></table></div>" >> repo_cards.md
 
-      - name: Inject cards into README
+      - name: Inject cards into Readme.md
         run: |
+          FILE="Readme.md"
           START="<!-- REPO-CARDS:START -->"
           END="<!-- REPO-CARDS:END -->"
+
+          # Ensure file exists
+          if [ ! -f "$FILE" ]; then
+            echo "❌ Readme.md not found"
+            exit 1
+          fi
 
           awk -v start="$START" -v end="$END" \
             'NR==FNR {cards = cards $0 "\n"; next}
              $0 == start {print; print cards; skip=1; next}
              $0 == end {skip=0}
-             skip != 1 {print}' repo_cards.md README.md > new.md
+             skip != 1 {print}' repo_cards.md "$FILE" > new.md
 
-          mv new.md README.md
+          mv new.md "$FILE"
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add Readme.md
           git commit -m "Updated repo cards" || echo "No update"
           git push
+
