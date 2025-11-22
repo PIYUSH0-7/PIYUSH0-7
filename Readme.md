@@ -84,8 +84,11 @@
 ### 🧠 DSA & Problem Solving
 - 📘 **LeetCode Solutions Repo —** [Visit Repository](https://github.com/PIYUSH0-7/LeetCode-Proofs-DSA-Practice-)
 
+## 🧩 All Repositories
+
 <!-- REPO-CARDS:START -->
 <!-- REPO-CARDS:END -->
+
 
 
 ---
@@ -129,5 +132,6 @@
 <div align="center">
   <b>⭐️⭐️ Thanks for visiting! Feel free to star my repositories if you find them helpful! ⭐️⭐️</b>
 </div>
+
 
 
