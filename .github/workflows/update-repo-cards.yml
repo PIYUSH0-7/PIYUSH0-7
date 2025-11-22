@@ -1,0 +1,107 @@
+name: Update Repo Cards in README
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - '.github/workflows/update-repo-cards.yml'
+      - 'README.md'
+  schedule:
+    - cron: '0 2 * * *' # daily at 02:00 UTC - change or remove if you want
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      GH_USER: PIYUSH0-7       # <- replace with your GitHub username if needed
+      README_FILE: README.md
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Fetch repos and generate cards
+        id: gen
+        run: |
+          USER="$GH_USER"
+          # Fetch public repos (100 per page) sorted by updated date
+          REPOS_JSON=$(curl -s -H "Accept: application/vnd.github.v3+json" "https://api.github.com/users/$USER/repos?per_page=100&sort=updated")
+          # If private repos for your own account are needed, change the API call to /user/repos and authorize with GITHUB_TOKEN
+          COUNT=$(echo "$REPOS_JSON" | jq 'length')
+          echo "Found $COUNT repositories"
+
+          # Build markdown grid (3 cards per row) using HTML inline so it looks like cards on GitHub
+          NEW_CONTENT=""
+          NEW_CONTENT+="\n\n<div align=\"center\">\n\n<table>\n<tbody>\n<tr>\n"
+          COL=0
+          # iterate over repos and build a small card
+          echo "$REPOS_JSON" | jq -r '.[] | @base64' | while IFS= read -r repo; do
+            _jq() { echo "${repo}" | base64 --decode | jq -r "${1}"; }
+            name=$(_jq '.name')
+            html_url=$(_jq '.html_url')
+            desc=$(_jq '.description')
+            if [ "$desc" = "null" ] || [ -z "$desc" ]; then desc="No description"; fi
+            lang=$(_jq '.language')
+            if [ "$lang" = "null" ] || [ -z "$lang" ]; then lang="-" ; fi
+            stars=$(_jq '.stargazers_count')
+            forks=$(_jq '.forks_count')
+
+            # shield badges (shields.io) — these are images that display live stats
+            star_badge="![stars](https://img.shields.io/github/stars/${USER}/${name}?style=social)"
+            fork_badge="![forks](https://img.shields.io/github/forks/${USER}/${name})"
+            lang_badge="![lang](https://img.shields.io/github/languages/top/${USER}/${name})"
+
+            # Build card HTML cell
+            card="<td align=\"left\" valign=\"top\" width=\"300\" style=\"padding:10px;vertical-align:top;border:1px solid #e1e4e8;border-radius:6px;margin:8px;\">"
+            card+="<h3 style=\"margin:6px 0;\"><a href=\"${html_url}\">${name}</a></h3>"
+            card+="<p style=\"margin:6px 0; color:#444;\">${desc}</p>"
+            card+="<p style=\"margin:6px 0;\">${star_badge} ${fork_badge} ${lang_badge}</p>"
+            card+="</td>"
+
+            NEW_CONTENT+="${card}"
+
+            COL=$((COL+1))
+            if [ $COL -ge 3 ]; then
+              NEW_CONTENT+="</tr>\n<tr>\n"
+              COL=0
+            fi
+          done
+
+          # close table
+          NEW_CONTENT+="</tr>\n</tbody>\n</table>\n\n</div>\n\n"
+
+          # Save generated content to a file
+          echo -e "$NEW_CONTENT" > repo-cards.md
+          echo "Generated repo-cards.md"
+
+      - name: Inject generated cards into README
+        run: |
+          START='<!-- REPO-CARDS:START -->'
+          END='<!-- REPO-CARDS:END -->'
+          TMP="$(mktemp)"
+          awk -v start="$START" -v end="$END" -v repl="$(sed 's/\\/\\\\/g; s/&/\\&/g; s/`/\\`/g; $!{printf "%s\\n", $0}' repo-cards.md)" '
+            BEGIN{printing=1}
+            {
+              if(index($0,start)==1){ print $0; print repl; printing=0; skip=1; next }
+              if(index($0,end)==1){ print $0; printing=1; next }
+              if(printing==1) print $0
+            }' $README_FILE > "$TMP"
+          mv "$TMP" $README_FILE
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add $README_FILE
+          git commit -m "chore: update repo cards" || echo "no changes to commit"
+          git push origin HEAD:${{ github.ref_name }}
+
+      - name: Upload repo-cards for debug
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: repo-cards
+          path: repo-cards.md
