@@ -48,14 +48,14 @@ jobs:
           done
           echo "</tr></tbody></table></div>" >> repo_cards.md
 
-      - name: Inject cards into README.md
+      - name: Inject cards into Readme.md
         run: |
-          FILE="README.md"
+          FILE="Readme.md"
           START="<!-- REPO-CARDS:START -->"
           END="<!-- REPO-CARDS:END -->"
           # Ensure file exists
           if [ ! -f "$FILE" ]; then
-            echo "❌ README.md not found"
+            echo "❌ Readme.md not found"
             exit 1
           fi
 
