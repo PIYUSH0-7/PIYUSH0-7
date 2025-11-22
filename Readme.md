@@ -91,9 +91,15 @@
 </div>
 
 ## ⏱️ Coding Activity (Wakatime)
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Piyush07&theme=tokyonight&hide_border=true" />
+</div>
+
+## ⏱️ LeetCode-Proofs-DSA-Practice-
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/piyush0-7?theme=dark&ext=heatmap)
+
 </div>
 
 ---
@@ -119,3 +125,4 @@
 <div align="center">
   <b>⭐️⭐️ Thanks for visiting! Feel free to star my repositories if you find them helpful! ⭐️⭐️</b>
 </div>
+
