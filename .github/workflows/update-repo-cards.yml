@@ -13,22 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Run README Repos List action
-        uses: joncalhoun/README-Repos-List@v1
+      - name: Generate repo list
+        uses: AmitThakkar/README-REPOS-ACTION@v1
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          readme-path: README.md
-          start-marker: '<!-- REPO-LIST:START -->'
-          end-marker: '<!-- REPO-LIST:END -->'
-          include-forks: false
-          include-archived: false
-          sort: updated
-          max-repos: 30
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOS_LIMIT: 30
+          OUTPUT_FILEPATH: README.md
+          START_MARKER: '<!-- REPO-LIST:START -->'
+          END_MARKER: '<!-- REPO-LIST:END -->'
 
-      - name: Commit changes
+      - name: Commit & push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
