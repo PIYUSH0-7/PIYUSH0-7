@@ -22,63 +22,51 @@ jobs:
       - name: Generate repo cards
         run: |
           USER="${{ github.repository_owner }}"
-
-          # Fetch repos
           curl -s "https://api.github.com/users/$USER/repos?per_page=100&sort=updated" > repos.json
 
-          # Build cards as HTML
-          echo "" > repo_cards.md
-          echo "<div align=\"center\">" >> repo_cards.md
-          echo "<table><tbody><tr>" >> repo_cards.md
+          echo "<div align='center'><table><tbody><tr>" > repo_cards.md
 
           COL=0
-          for row in $(jq -r '.[].name' repos.json); do
-            desc=$(jq -r ".[] | select(.name==\"$row\") | .description" repos.json)
+          for repo in $(jq -r '.[].name' repos.json); do
+            desc=$(jq -r ".[] | select(.name==\"$repo\") | .description" repos.json)
             [ "$desc" = "null" ] && desc="No description"
 
             echo "<td width='300' style='border:1px solid #ccc;padding:10px;vertical-align:top'>" >> repo_cards.md
-            echo "<h3><a href='https://github.com/$USER/$row'>$row</a></h3>" >> repo_cards.md
+            echo "<h3><a href='https://github.com/$USER/$repo'>$repo</a></h3>" >> repo_cards.md
             echo "<p>$desc</p>" >> repo_cards.md
             echo "<p>" >> repo_cards.md
-            echo "<img src='https://img.shields.io/github/stars/$USER/$row?style=social'/>" >> repo_cards.md
-            echo "<img src='https://img.shields.io/github/forks/$USER/$row'/>" >> repo_cards.md
-            echo "<img src='https://img.shields.io/github/languages/top/$USER/$row'/>" >> repo_cards.md
+            echo "<img src='https://img.shields.io/github/stars/$USER/$repo?style=social'/>" >> repo_cards.md
+            echo "<img src='https://img.shields.io/github/forks/$USER/$repo'/>" >> repo_cards.md
+            echo "<img src='https://img.shields.io/github/languages/top/$USER/$repo'/>" >> repo_cards.md
             echo "</p>" >> repo_cards.md
             echo "</td>" >> repo_cards.md
 
             COL=$((COL+1))
-            if [ $COL -eq 3 ]; then
+            if [ "$COL" -eq 3 ]; then
               echo "</tr><tr>" >> repo_cards.md
               COL=0
             fi
           done
 
-          echo "</tr></tbody></table>" >> repo_cards.md
-          echo "</div>" >> repo_cards.md
+          echo "</tr></tbody></table></div>" >> repo_cards.md
 
-      - name: Update README.md
+      - name: Inject cards into README
         run: |
-          README="README.md"
-          if [ ! -f "$README" ]; then
-            echo "❌ README.md not found"
-            exit 1
-          fi
-
           START="<!-- REPO-CARDS:START -->"
           END="<!-- REPO-CARDS:END -->"
 
           awk -v start="$START" -v end="$END" \
-              'NR==FNR {cards=cards $0 "\n"; next}
-               $0==start {print; print cards; skip=1; next}
-               $0==end {skip=0}
-               skip==0 {print}' repo_cards.md $README > new_README.md
+            'NR==FNR {cards = cards $0 "\n"; next}
+             $0 == start {print; print cards; skip=1; next}
+             $0 == end {skip=0}
+             skip != 1 {print}' repo_cards.md README.md > new.md
 
-          mv new_README.md README.md
+          mv new.md README.md
 
-      - name: Commit & push
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update repo cards" || echo "No changes to commit"
+          git commit -m "Updated repo cards" || echo "No update"
           git push
