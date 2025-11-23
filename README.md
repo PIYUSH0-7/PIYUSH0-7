@@ -18,14 +18,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 </div>
 
 ## 🚀 Obsessions: Technologies & Mastery
-
+<div align="center">
 <table>
   <tr>
     <td align="center" colspan="2"><b>🌐 Frontend Excellence</b></td>
@@ -50,7 +49,7 @@
     <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></td>
   </tr>
 </table>
-
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 </div>
@@ -124,4 +123,5 @@
   <b>🚀 "Greatness is a habit — not an act. Let's build tomorrow together." 🚀</b><br>
   <b>⭐️ If this inspires you, star my repositories & connect. The journey just began. ⭐️</b>
 </div>
+
 
