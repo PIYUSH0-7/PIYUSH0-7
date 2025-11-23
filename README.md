@@ -14,9 +14,10 @@
   <a href="https://www.linkedin.com/in/piyush070/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://piyush07-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-323232?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://dev-path-tracker.vercel.app/"><img src="https://img.shields.io/badge/Dev Path Tracker-3C3C3C?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
-
 ---
 
 <div align="center">
@@ -123,3 +124,4 @@
   <b>🚀 "Greatness is a habit — not an act. Let's build tomorrow together." 🚀</b><br>
   <b>⭐️ If this inspires you, star my repositories & connect. The journey just began. ⭐️</b>
 </div>
+
