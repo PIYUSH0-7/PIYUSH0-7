@@ -113,6 +113,8 @@
 <div align="center">
   <a href="https://github.com/PIYUSH0-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/piyush070/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://piyush07-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-323232?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://dev-path-tracker.vercel.app/"><img src="https://img.shields.io/badge/Dev Path Tracker-3C3C3C?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
@@ -125,3 +127,4 @@
 <div align="center">
   <b>⭐️⭐️ Thanks for visiting! Feel free to star my repositories if you find them helpful! ⭐️⭐️</b>
 </div>
+
