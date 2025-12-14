@@ -238,11 +238,13 @@ console.log(piyush.getHiringReason());
 
 ### 🏆 **Trophy Cabinet**
 
-<img
-  width="100%"
-  src="https://github-profile-trophy.vercel.app/?username=PIYUSH0-7&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=10&margin-h=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews"
-  alt="GitHub Profile Trophies"
-/>
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-profile-trophy.vercel.app/?username=PIYUSH0-7&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=10&margin-h=10"
+    alt="GitHub Profile Trophies"
+  />
+</p>
 
 
 ### 📊 **Detailed Analytics**
@@ -968,4 +970,5 @@ if (lookingForTopTalent && needsFullStackExpert) {
 <img src="https://img.shields.io/badge/Driven_by-🎯_Excellence-00D9FF?style=for-the-badge&labelColor=000"/>
 
 </div>
+
 
