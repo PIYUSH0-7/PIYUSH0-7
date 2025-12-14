@@ -273,31 +273,6 @@ console.log(piyush.getHiringReason());
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">💡 SKILL MATRIX - WHERE I DOMINATE</h2>
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                    🎯 EXPERTISE BREAKDOWN                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  Full Stack Development    ████████████████████░  95%  ⭐⭐⭐⭐⭐ ║
-║  Frontend (React/Next.js)  ████████████████████░  93%  ⭐⭐⭐⭐⭐ ║
-║  Backend (Node.js/Express) ███████████████████░░  90%  ⭐⭐⭐⭐⭐ ║
-║  Data Structures & Algo    ██████████████████░░░  85%  ⭐⭐⭐⭐☆ ║
-║  Database Management       ████████████████░░░░░  82%  ⭐⭐⭐⭐☆ ║
-║  System Design             ███████████████░░░░░░  75%  ⭐⭐⭐⭐☆ ║
-║  Cloud & DevOps            ████████████░░░░░░░░░  65%  ⭐⭐⭐☆☆ ║
-║  AI/ML Integration         ██████████░░░░░░░░░░░  55%  ⭐⭐⭐☆☆ ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2 align="center">🏆 LEETCODE LEGEND STATUS</h2>
 
 <div align="center">
@@ -965,10 +940,3 @@ if (lookingForTopTalent && needsFullStackExpert) {
 <img src="https://img.shields.io/badge/Driven_by-🎯_Excellence-00D9FF?style=for-the-badge&labelColor=000"/>
 
 </div>
-
-
-
-
-
-
-
