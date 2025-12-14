@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=%F0%9F%8E%93+BTech+INFORMATION+TECHNOLOGY+Engineering+Student;%F0%9F%92%BB+MERN+Stack+%7C+Next.js+%7C+TypeScript+Expert;%F0%9F%9A%80+500%2B+DSA+Problems+Solved+on+LeetCode;%F0%9F%8F%86+Building+Production-Ready+Applications;%E2%9C%A8+Open+for+2025+Placement+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=%F0%9F%8E%93+BTech+INFORMATION+TECHNOLOGY+Engineering+Student;%F0%9F%92%BB+MERN+Stack+%7C+Android+dev+%7C+AI+dev+%7C+Learner;%F0%9F%9A%80+300%2B+DSA+Problems+Solved+on+LeetCode;%F0%9F%8F%86+Building+Production-Ready+Applications;%E2%9C%A8+Open+for+2025+Placement+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ const PiyushGangwar = {
         "Product Engineer"
     ],
     
-    availability: "Open for Internships & Full-Time (2025)",
+    availability: "Open for Internships & Full-Time (2027)",
     
     getResume: () => "📄 Available on Request"
 };
@@ -209,7 +209,7 @@ const PiyushGangwar = {
 [![LeetCode Ranking](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%232bbc8a&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpiyush0-7&logo=leetcode&logoColor=yellow)](https://leetcode.com/piyush0-7/)
 
 ### 📈 Problem Solving Breakdown
-**Easy:** 150+ | **Medium:** 200+ | **Hard:** 50+ | **Total:** 500+
+**Easy:** 150+ | **Medium:** 100+ | **Hard:** 50+ | **Total:** 300+
 
 </div>
 
@@ -390,26 +390,14 @@ AI/ML Integration         ██████████░░░░░░░░
 
 ### 📊 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-```text
-TypeScript    16 hrs 45 mins  ████████████████░░░░░  42.3%
-JavaScript    12 hrs 30 mins  ████████████░░░░░░░░░  31.5%
-React         8 hrs 15 mins   ████████░░░░░░░░░░░░░  20.8%
-Python        3 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░   8.4%
-CSS/HTML      2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░   5.5%
-```
+</div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h2 align="center">📈 Coding Activity & Statistics</h2> <div align="center">
+
+📊 Weekly Development Breakdown
+<!--START_SECTION:waka--> 
 <!--END_SECTION:waka-->
 
-### 📌 Quick Stats
-- **💻 Total Commits (2024):** 500+
-- **🔥 Current Streak:** 45 Days
-- **⭐ GitHub Stars Earned:** 50+
-- **🤝 Pull Requests:** 30+
-- **📝 Repositories:** 25+
-- **🌟 Contributions:** 1000+
-
-</div>
-
+📌 Quick Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PIYUSH0-7&show_icons=true&count_private=true&theme=tokyonight" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIYUSH0-7&theme=tokyonight" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSH0-7&layout=compact&theme=tokyonight"/> </p> </div> ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">🎯 Career Objectives & Target Companies</h2>
@@ -739,7 +727,6 @@ console.log(piyush.lifeGoal());
 
 <br>
 
-*Last Updated: December 2024 | Piyush Gangwar | BTech CSE '26*
+*Last Updated: December 2025 | Piyush Gangwar | BTech IT '27*
 
 </div>
-
