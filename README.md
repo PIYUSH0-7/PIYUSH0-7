@@ -329,6 +329,13 @@ console.log(piyush.getHiringReason());
 ### 💻 **WakaTime Stats - Last 7 Days**
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 06 December 2025 - To: 13 December 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 *Stats auto-update daily via GitHub Actions*
