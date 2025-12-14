@@ -24,18 +24,20 @@
 </div>
 
 <p align="center">
+
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=👀%20PROFILE%20VIEWS&color=00D9FF&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=👀%20PROFILE%20VIEWS&color=00D9FF&style=for-the-badge&labelColor=000000"/>
 
-  <!-- Followers (FIXED) -->
-  <img src="https://img.shields.io/github/followers/PIYUSH0-7?label=👥%20FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=000000&logo=github" alt="Followers"/>
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/PIYUSH0-7?label=👥%20FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=000000&logo=github"/>
 
-  <!-- Stars (FIXED – total stars across repos) -->
-  <img src="https://img.shields.io/badge/dynamic/json?label=⭐%20STARS&style=for-the-badge&color=FFA500&labelColor=000000&query=$.stargazers_count&url=https://api.github.com/users/PIYUSH0-7/repos?per_page=1&logo=github" alt="Stars"/>
+  <!-- Total Stars (WORKING) -->
+  <img src="https://img.shields.io/github/stars/PIYUSH0-7?label=⭐%20STARS&style=for-the-badge&color=FFA500&labelColor=000000&logo=github"/>
 
   <!-- Status -->
-  <img src="https://img.shields.io/badge/STATUS-🔥%20READY%20TO%20HIRE-brightgreen?style=for-the-badge&labelColor=000000" alt="Status"/>
+  <img src="https://img.shields.io/badge/STATUS-🔥%20READY%20TO%20HIRE-brightgreen?style=for-the-badge&labelColor=000000"/>
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -981,4 +983,5 @@ if (lookingForTopTalent && needsFullStackExpert) {
 
 
 </div>
+
 
