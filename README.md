@@ -215,6 +215,54 @@ const PiyushGangwar = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h2 align="center">💡 Technical Expertise Matrix</h2>
+
+<div align="center">
+
+```text
+Full Stack Development    ████████████████████░  95%  ⭐⭐⭐⭐⭐
+Frontend (React/Next.js)  ████████████████████░  93%  ⭐⭐⭐⭐⭐
+Backend (Node.js/Express) ███████████████████░░  88%  ⭐⭐⭐⭐☆
+Data Structures & Algo    ██████████████████░░░  85%  ⭐⭐⭐⭐☆
+Database Management       ████████████████░░░░░  82%  ⭐⭐⭐⭐☆
+System Design             ██████████████░░░░░░░  70%  ⭐⭐⭐☆☆
+Cloud & DevOps            ████████████░░░░░░░░░  60%  ⭐⭐⭐☆☆
+AI/ML Integration         ██████████░░░░░░░░░░░  50%  ⭐⭐⭐☆☆
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">📈 Coding Activity & Statistics</h2>
+
+<div align="center">
+
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 📌 Quick Stats (Auto-Updated)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PIYUSH0-7&theme=github_dark" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PIYUSH0-7&theme=github_dark" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PIYUSH0-7&theme=github_dark" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PIYUSH0-7&theme=github_dark" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PIYUSH0-7&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
@@ -316,90 +364,6 @@ const PiyushGangwar = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">🎓 Academic Journey & Skills Progress</h2>
-
-```mermaid
-gantt
-    title Academic & Professional Development Timeline
-    dateFormat YYYY-MM-DD
-    section Academic Foundation
-    BTech CSE Started                    :done, 2022-08-01, 365d
-    Core CS Subjects                     :done, 2023-01-01, 365d
-    Advanced Courses                     :active, 2024-01-01, 2025-12-31
-    section Technical Skills
-    Web Development (HTML/CSS/JS)        :done, 2022-09-01, 180d
-    React & Modern Frontend              :done, 2023-03-01, 200d
-    Backend Development (Node.js)        :done, 2023-09-01, 180d
-    Database Management                  :done, 2024-01-01, 150d
-    section Problem Solving
-    DSA Fundamentals                     :done, 2023-01-01, 200d
-    LeetCode Practice (500+ Problems)    :active, 2023-07-01, 2025-12-31
-    Competitive Programming              :active, 2024-01-01, 2025-12-31
-    section Projects & Experience
-    Personal Projects (5+)               :done, 2023-06-01, 365d
-    Full Stack Applications (10+)        :active, 2024-01-01, 2025-12-31
-    Open Source Contributions            :active, 2024-06-01, 2025-12-31
-    section Career Preparation
-    Resume Building & Portfolio          :done, 2024-08-01, 90d
-    Interview Preparation                :active, 2024-11-01, 2025-05-31
-    Placement Season 2025                :milestone, 2025-06-01, 0d
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">🎯 Key Achievements & Certifications</h2>
-
-<div align="center">
-
-| 🏆 Achievement | 📝 Description | 📅 Year |
-|:--------------|:---------------|:--------|
-| **🌟 500+ LeetCode Problems** | Solved 500+ DSA problems across Easy, Medium, and Hard difficulties | 2024 |
-| **💻 10+ Full Stack Projects** | Built and deployed production-ready applications using MERN stack | 2023-24 |
-| **📊 Dev Path Tracker** | Developed and launched a developer tracking platform (500+ users) | 2024 |
-| **🎓 8.5+ CGPA** | Maintaining excellent academic performance in BTech CSE | 2022-24 |
-| **🔥 100 Day Coding Streak** | Maintained consistent coding practice on GitHub and LeetCode | 2024 |
-| **🌐 Portfolio Website** | Designed and developed personal portfolio with modern UI/UX | 2024 |
-| **📚 Open Source Contributor** | Active contributor to open-source projects on GitHub | 2024 |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">💡 Technical Expertise Matrix</h2>
-
-<div align="center">
-
-```text
-Full Stack Development    ████████████████████░  95%  ⭐⭐⭐⭐⭐
-Frontend (React/Next.js)  ████████████████████░  93%  ⭐⭐⭐⭐⭐
-Backend (Node.js/Express) ███████████████████░░  88%  ⭐⭐⭐⭐☆
-Data Structures & Algo    ██████████████████░░░  85%  ⭐⭐⭐⭐☆
-Database Management       ████████████████░░░░░  82%  ⭐⭐⭐⭐☆
-System Design             ██████████████░░░░░░░  70%  ⭐⭐⭐☆☆
-Cloud & DevOps            ████████████░░░░░░░░░  60%  ⭐⭐⭐☆☆
-AI/ML Integration         ██████████░░░░░░░░░░░  50%  ⭐⭐⭐☆☆
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">📈 Coding Activity & Statistics</h2>
-
-<div align="center">
-
-### 📊 Weekly Development Breakdown
-
-</div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h2 align="center">📈 Coding Activity & Statistics</h2> <div align="center">
-
-📊 Weekly Development Breakdown
-<!--START_SECTION:waka--> 
-<!--END_SECTION:waka-->
-
-📌 Quick Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PIYUSH0-7&show_icons=true&count_private=true&theme=tokyonight" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIYUSH0-7&theme=tokyonight" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSH0-7&layout=compact&theme=tokyonight"/> </p> </div> ```
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2 align="center">🎯 Career Objectives & Target Companies</h2>
 
 <div align="center">
@@ -451,76 +415,11 @@ System Design
 ![Swiggy](https://img.shields.io/badge/Swiggy-FC8019?style=for-the-badge&logo=swiggy&logoColor=white)
 
 ### 📋 Available For
-- ✅ **Full-Time Positions** (Starting July 2025)
-- ✅ **Summer Internships 2025**
+- ✅ **Full-Time Positions** (Starting July 2027)
+- ✅ **Summer Internships 2026**
 - ✅ **Freelance Projects**
 - ✅ **Open Source Contributions**
 - ✅ **Collaborative Projects**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">💼 Professional Experience</h2>
-
-<div align="center">
-
-### 🚀 Projects & Impact
-
-| Role | Organization | Duration | Key Contributions |
-|:-----|:-------------|:---------|:------------------|
-| **Full Stack Developer** | Personal Projects | 2023 - Present | • Built 10+ production-ready applications<br>• Developed Dev Path Tracker (500+ users)<br>• Implemented CI/CD pipelines |
-| **Open Source Contributor** | GitHub Community | 2024 - Present | • Contributed to 5+ open-source projects<br>• Fixed critical bugs and added features<br>• Improved documentation |
-| **Problem Solver** | LeetCode | 2023 - Present | • Solved 500+ coding challenges<br>• Ranked in top 15% globally<br>• Consistent daily problem solving |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">🌟 Why Hire Me?</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 💪 Strong Foundation
-- Solid CS fundamentals
-- 8.5+ CGPA in BTech CSE
-- 500+ DSA problems solved
-- Production-ready code quality
-
-</td>
-<td align="center" width="25%">
-
-### 🚀 Proven Track Record
-- 10+ deployed projects
-- Real-world problem solving
-- Full-stack expertise
-- Modern tech stack proficiency
-
-</td>
-<td align="center" width="25%">
-
-### 🎯 Quick Learner
-- Fast adaptation to new tech
-- Self-taught developer
-- Continuous learning mindset
-- Up-to-date with trends
-
-</td>
-<td align="center" width="25%">
-
-### 🤝 Team Player
-- Great communication skills
-- Collaborative approach
-- Code review experience
-- Documentation focused
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -530,11 +429,11 @@ System Design
 
 <div align="center">
 
-### 💬 I'm actively seeking opportunities for Full-Time roles & Internships in 2025!
+### 💬 I'm actively seeking opportunities for Full-Time roles & Internships in 2027!
 
 <br>
 
-<a href="mailto:piyush.gangwar@example.com">
+<a href="mailto:gangwarpiyush1247@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/piyush070/">
@@ -547,186 +446,4 @@ System Design
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 <a href="https://github.com/PIYUSH0-7">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://twitter.com/piyush_dev">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-
-<br><br>
-
-### 📄 Resume & Documents
-
-[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-FF6B6B?style=for-the-badge&logoColor=white)](https://piyush07-pi.vercel.app/resume.pdf)
-[![View Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://piyush07-pi.vercel.app/)
-[![Schedule Meeting](https://img.shields.io/badge/📅_Schedule_Meeting-4CAF50?style=for-the-badge&logoColor=white)](https://calendly.com/piyush07)
-
-<br>
-
-### 📊 Response Time: < 24 Hours | 🌍 Location: Open to Relocate | 💼 Status: Actively Looking
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">🎓 Coursework & Certifications</h2>
-
-<div align="center">
-
-| Subject/Certification | Status | Skills Acquired |
-|:---------------------|:-------|:----------------|
-| **Data Structures & Algorithms** | ✅ Completed | Arrays, Linked Lists, Trees, Graphs, DP |
-| **Database Management Systems** | ✅ Completed | SQL, NoSQL, Query Optimization |
-| **Operating Systems** | ✅ Completed | Process Management, Memory, Threading |
-| **Computer Networks** | ✅ Completed | TCP/IP, HTTP, DNS, Network Security |
-| **Object Oriented Programming** | ✅ Completed | OOP Principles, Design Patterns |
-| **Web Development Bootcamp** | ✅ Certified | Full Stack MERN Development |
-| **AWS Cloud Practitioner** | 🎯 In Progress | Cloud Architecture, AWS Services |
-| **System Design** | 🎯 Learning | Scalability, Microservices, Load Balancing |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">💭 Developer Motivation</h2>
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br>
-
-### 🎯 My Development Philosophy
-
-```javascript
-class Developer {
-  constructor(name) {
-    this.name = name;
-    this.passion = "Building impactful solutions";
-    this.goal = "Create technology that matters";
-    this.approach = "Learn, Build, Deploy, Repeat";
-  }
-  
-  dailyRoutine() {
-    return [
-      "☕ Start with coffee",
-      "💻 Code for 8+ hours", 
-      "📚 Learn something new",
-      "🏋️ Solve DSA problems",
-      "🚀 Deploy & iterate",
-      "😴 Dream in code"
-    ];
-  }
-  
-  lifeGoal() {
-    return "Make a positive impact through technology! 🌟";
-  }
-}
-
-const piyush = new Developer("Piyush Gangwar");
-console.log(piyush.lifeGoal());
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">😄 Developer Humor</h2>
-
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
-
-<br>
-
-### ⚡ Fun Facts About Me
-- 🐛 I consider debugging a treasure hunt
-- ☕ My code-to-coffee ratio is 100:1
-- 🌙 Best code is written at 2 AM
-- 📚 I read documentation for fun
-- 🎯 My hobby is turning bugs into features
-- 💡 Stack Overflow is my second home
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">🌟 Testimonials & Recommendations</h2>
-
-<div align="center">
-
-> *"Piyush demonstrates exceptional problem-solving skills and a deep understanding of full-stack development. His code is clean, well-documented, and production-ready."*
-> 
-> **— Project Mentor**
-
-<br>
-
-> *"Outstanding performance in DSA and algorithm design. Consistently delivers optimized solutions and helps peers understand complex concepts."*
-> 
-> **— Programming Instructor**
-
-<br>
-
-> *"A dedicated team player with excellent communication skills. Takes initiative and always goes the extra mile to ensure project success."*
-> 
-> **— Team Lead, College Project**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">📚 Recent Learning & Growth</h2>
-
-<div align="center">
-
-### 🎯 Currently Learning
-
-![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge)
-![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![TypeScript Advanced](https://img.shields.io/badge/TypeScript_Advanced-007ACC?style=for-the-badge&logo=typescript)
-
-### 📖 2024 Learning Goals
-
-- [x] ✅ Master MERN Stack Development
-- [x] ✅ Complete 500+ LeetCode Problems
-- [x] ✅ Build 10+ Full Stack Applications
-- [ ] 🎯 Learn System Design Patterns
-- [ ] 🎯 Master AWS Cloud Services
-- [ ] 🎯 Contribute to Major Open Source Project
-- [ ] 🎯 Write Technical Blog Posts
-- [ ] 🎯 Mentor Junior Developers
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%" />
-
-<h2>🚀 Ready to Build the Future Together! 🚀</h2>
-
-### 💼 Open for Full-Time Opportunities | 🎯 Available for Interviews | 📧 Quick Response Time
-
-<br>
-
-![Made with Love](https://img.shields.io/badge/Made_with-❤️_&_☕-red?style=for-the-badge)
-![Open to Work](https://img.shields.io/badge/Open_to-Work-brightgreen?style=for-the-badge)
-![Placement Ready](https://img.shields.io/badge/Placement-Ready_2025-blue?style=for-the-badge)
-![Actively Learning](https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge)
-
-<br>
-
-### ⭐ If my profile interests you, let's connect and create something amazing! ⭐
-
-<br>
-
-**🌟 Thank you for visiting! Looking forward to contributing to your team's success! 🌟**
-
-<br>
-
-*Last Updated: December 2025 | Piyush Gangwar | BTech IT '27*
-
-</div>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub
