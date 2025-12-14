@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Piyush%20Gangwar&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BTech%20CSE%20'26%20|%20Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=55&descAlign=50&descSize=20" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Piyush%20Gangwar&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BTech%20IT%20'26%20|%20Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=55&descAlign=50&descSize=20" alt="header" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=%F0%9F%8E%93+BTech+Computer+Science+Engineering+Student;%F0%9F%92%BB+MERN+Stack+%7C+Next.js+%7C+TypeScript+Expert;%F0%9F%9A%80+500%2B+DSA+Problems+Solved+on+LeetCode;%F0%9F%8F%86+Building+Production-Ready+Applications;%E2%9C%A8+Open+for+2025+Placement+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=%F0%9F%8E%93+BTech+INFORMATION+TECHNOLOGY+Engineering+Student;%F0%9F%92%BB+MERN+Stack+%7C+Next.js+%7C+TypeScript+Expert;%F0%9F%9A%80+500%2B+DSA+Problems+Solved+on+LeetCode;%F0%9F%8F%86+Building+Production-Ready+Applications;%E2%9C%A8+Open+for+2025+Placement+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://github.com/PIYUSH0-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/piyush0-7"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://dev-path-tracker.vercel.app/"><img src="https://img.shields.io/badge/Dev_Tracker-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:piyush.gangwar@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:gangwarpiyush1247@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -31,10 +31,10 @@
 ```typescript
 const PiyushGangwar = {
     education: {
-        degree: "BTech in Computer Science & Engineering",
-        graduation: "2026",
-        institution: "Premier Engineering College",
-        cgpa: "8.5+/10",
+        degree: "BTech in Information Technology & Engineering",
+        graduation: "2027",
+        institution: "ABES Engineering College",
+        cgpa: "7.5+/10",
         location: "Ghāziābād, Uttar Pradesh, India"
     },
     
@@ -54,7 +54,7 @@ const PiyushGangwar = {
     },
     
     achievements: {
-        leetcode: "500+ Problems Solved",
+        leetcode: "300+ Problems Solved",
         projects: "10+ Full Stack Applications",
         github: "100+ Contributions",
         focus: "Production-Ready Development"
@@ -742,3 +742,4 @@ console.log(piyush.lifeGoal());
 *Last Updated: December 2024 | Piyush Gangwar | BTech CSE '26*
 
 </div>
+
