@@ -237,7 +237,11 @@ console.log(piyush.getHiringReason());
 
 ### 🏆 **Trophy Cabinet**
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=PIYUSH0-7&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=10&margin-h=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews" alt="Trophies" />
+<img 
+  width="100%" 
+  src="https://github-profile-trophy.vercel.app/?username=PIYUSH0-7&theme=tokyonight&no-frame=true&no-bg=true"
+  alt="GitHub Trophies" 
+/>
 
 ### 📊 **Detailed Analytics**
 
@@ -356,124 +360,131 @@ No activity tracked
 
 <table align="center" width="100%">
 <tr>
-<th width="20%">🎯 Project</th>
-<th width="30%">💡 Impact</th>
-<th width="25%">⚡ Tech Stack</th>
-<th width="15%">🔗 Live</th>
-<th width="10%">📊 Status</th>
+  <th width="20%">🎯 Project</th>
+  <th width="30%">💡 Impact</th>
+  <th width="25%">⚡ Tech Stack</th>
+  <th width="15%">🔗 Live</th>
+  <th width="10%">📊 Status</th>
 </tr>
 
 <tr>
-<td align="center">
-<a href="https://dev-path-tracker.vercel.app/"><b>🔥 Dev Path Tracker</b></a><br>
-<sub><i>Featured Project</i></sub>
-</td>
-<td>
-<b>500+ Active Users</b><br>
-Full-stack developer journey tracker with analytics, progress monitoring, and gamification
-</td>
-<td align="center">
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-</td>
-<td align="center">
-<a href="https://dev-path-tracker.vercel.app/"><img src="https://img.shields.io/badge/🌐_LIVE-00D9FF?style=for-the-badge"/></a>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/✅_PROD-success?style=for-the-badge"/>
-</td>
+  <td align="center">
+    <a href="https://dev-path-tracker.vercel.app/"><b>🔥 Dev Path Tracker</b></a><br>
+    <sub><i>Featured Project</i></sub>
+  </td>
+  <td>
+    <b>500+ Active Users</b><br>
+    Full-stack developer journey tracker with analytics, progress monitoring, and gamification
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+  </td>
+  <td align="center">
+    <a href="https://dev-path-tracker.vercel.app/">
+      <img src="https://img.shields.io/badge/LIVE-00D9FF?style=for-the-badge"/>
+    </a>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/PROD-success?style=for-the-badge"/>
+  </td>
 </tr>
 
 <tr>
-<td align="center">
-<a href="https://piyush07-pi.vercel.app/"><b>💎 Portfolio 2.0</b></a><br>
-<sub><i>Personal Brand</i></sub>
-</td>
-<td>
-<b>1000+ Monthly Views</b><br>
-Modern, responsive portfolio with smooth animations, dark mode, and performance optimization
-</td>
-<td align="center">
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-</td>
-<td align="center">
-<a href="https://piyush07-pi.vercel.app/"><img src="https://img.shields.io/badge/🌐_LIVE-00D9FF?style=for-the-badge"/></a>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/✅_PROD-success?style=for-the-badge"/>
-</td>
+  <td align="center">
+    <a href="https://piyush07-pi.vercel.app/"><b>💎 Portfolio 2.0</b></a><br>
+    <sub><i>Personal Brand</i></sub>
+  </td>
+  <td>
+    <b>1000+ Monthly Views</b><br>
+    Modern, responsive portfolio with smooth animations, dark mode, and performance optimization
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+  </td>
+  <td align="center">
+    <a href="https://piyush07-pi.vercel.app/">
+      <img src="https://img.shields.io/badge/LIVE-00D9FF?style=for-the-badge"/>
+    </a>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/PROD-success?style=for-the-badge"/>
+  </td>
 </tr>
 
 <tr>
-<td align="center">
-<b>🛒 E-Commerce Pro</b><br>
-<sub><i>Scalable Platform</i></sub>
-</td>
-<td>
-<b>Production Ready</b><br>
-Full-featured e-commerce with real-time inventory, payment integration, and admin dashboard
-</td>
-<td align="center">
-![MERN](https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🔜_SOON-FFA500?style=for-the-badge"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🔨_BUILD-yellow?style=for-the-badge"/>
-</td>
+  <td align="center">
+    <b>🛒 E-Commerce Pro</b><br>
+    <sub><i>Scalable Platform</i></sub>
+  </td>
+  <td>
+    <b>Production Ready</b><br>
+    Full-featured e-commerce with real-time inventory, payment integration, and admin dashboard
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/SOON-FFA500?style=for-the-badge"/>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/BUILD-yellow?style=for-the-badge"/>
+  </td>
 </tr>
 
 <tr>
-<td align="center">
-<b>🤖 AI Vision Suite</b><br>
-<sub><i>ML Integration</i></sub>
-</td>
-<td>
-<b>AI-Powered</b><br>
-Machine learning automation platform with computer vision and NLP capabilities
-</td>
-<td align="center">
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TF-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🔜_SOON-FFA500?style=for-the-badge"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🔨_BUILD-yellow?style=for-the-badge"/>
-</td>
+  <td align="center">
+    <b>🤖 AI Vision Suite</b><br>
+    <sub><i>ML Integration</i></sub>
+  </td>
+  <td>
+    <b>AI-Powered</b><br>
+    Machine learning automation platform with computer vision and NLP capabilities
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/SOON-FFA500?style=for-the-badge"/>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/BUILD-yellow?style=for-the-badge"/>
+  </td>
 </tr>
 
 <tr>
-<td align="center">
-<a href="https://github.com/PIYUSH0-7/LeetCode-Proofs-DSA-Practice-"><b>📚 DSA Vault</b></a><br>
-<sub><i>Knowledge Base</i></sub>
-</td>
-<td>
-<b>500+ Solutions</b><br>
-Comprehensive LeetCode solutions with detailed explanations, patterns, and complexity analysis
-</td>
-<td align="center">
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Py-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-</td>
-<td align="center">
-<a href="https://github.com/PIYUSH0-7/LeetCode-Proofs-DSA-Practice-"><img src="https://img.shields.io/badge/📖_VIEW-00D9FF?style=for-the-badge"/></a>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/✅_ACTIVE-success?style=for-the-badge"/>
-</td>
+  <td align="center">
+    <a href="https://github.com/PIYUSH0-7/LeetCode-Proofs-DSA-Practice-"><b>📚 DSA Vault</b></a><br>
+    <sub><i>Knowledge Base</i></sub>
+  </td>
+  <td>
+    <b>500+ Solutions</b><br>
+    Comprehensive LeetCode solutions with explanations, patterns, and complexity analysis
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  </td>
+  <td align="center">
+    <a href="https://github.com/PIYUSH0-7/LeetCode-Proofs-DSA-Practice-">
+      <img src="https://img.shields.io/badge/VIEW-00D9FF?style=for-the-badge"/>
+    </a>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/ACTIVE-success?style=for-the-badge"/>
+  </td>
 </tr>
 
 </table>
+
 
 <div align="center">
 
@@ -960,5 +971,6 @@ if (lookingForTopTalent && needsFullStackExpert) {
 <img src="https://img.shields.io/badge/Made_with-❤️_Passion-red?style=for-the-badge&labelColor=000"/>
 <img src="https://img.shields.io/badge/Powered_by-☕_Coffee-brown?style=for-the-badge&labelColor=000"/>
 <img src="https://img.shields.io/badge/Driven_by-🎯_Excellence-00D9FF?style=for-the-badge&labelColor=000"/>
+
 
 </div>
