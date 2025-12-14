@@ -24,10 +24,17 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=👀+PROFILE+VIEWS&color=00D9FF&style=for-the-badge&labelColor=000" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/PIYUSH0-7?label=👥+FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=000" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/PIYUSH0-7?label=⭐+STARS&style=for-the-badge&color=FFA500&labelColor=000" alt="Stars"/>
-  <img src="https://img.shields.io/badge/STATUS-🔥_READY_TO_HIRE-brightgreen?style=for-the-badge&labelColor=000" alt="Status"/>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=👀%20PROFILE%20VIEWS&color=00D9FF&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
+
+  <!-- Followers (FIXED) -->
+  <img src="https://img.shields.io/github/followers/PIYUSH0-7?label=👥%20FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=000000&logo=github" alt="Followers"/>
+
+  <!-- Stars (FIXED – total stars across repos) -->
+  <img src="https://img.shields.io/badge/dynamic/json?label=⭐%20STARS&style=for-the-badge&color=FFA500&labelColor=000000&query=$.stargazers_count&url=https://api.github.com/users/PIYUSH0-7/repos?per_page=1&logo=github" alt="Stars"/>
+
+  <!-- Status -->
+  <img src="https://img.shields.io/badge/STATUS-🔥%20READY%20TO%20HIRE-brightgreen?style=for-the-badge&labelColor=000000" alt="Status"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -236,11 +243,10 @@ console.log(piyush.getHiringReason());
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSH0-7&custom_title=💻+CONTRIBUTION+DOMINATION&bg_color=0D1117&color=00D9FF&line=FF6B35&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&height=300" alt="Activity Graph" />
 
 ### 🏆 **Trophy Cabinet**
-
-<img 
-  width="100%" 
-  src="https://github-profile-trophy.vercel.app/?username=PIYUSH0-7&theme=tokyonight&no-frame=true&no-bg=true"
-  alt="GitHub Trophies" 
+<img
+  width="100%"
+  src="https://github-profile-trophy.vercel.app/?username=PIYUSH0-7&theme=tokyonight&margin-w=15&margin-h=15&v=1"
+  alt="GitHub Trophies"
 />
 
 ### 📊 **Detailed Analytics**
@@ -279,20 +285,21 @@ console.log(piyush.getHiringReason());
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                    🎯 EXPERTISE BREAKDOWN                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  Full Stack Development    ████████████████████░  95%  ⭐⭐⭐⭐⭐ ║
-║  Frontend (React/Next.js)  ████████████████████░  93%  ⭐⭐⭐⭐⭐ ║
-║  Backend (Node.js/Express) ███████████████████░░  90%  ⭐⭐⭐⭐⭐ ║
-║  Data Structures & Algo    ██████████████████░░░  85%  ⭐⭐⭐⭐☆ ║
-║  Database Management       ████████████████░░░░░  82%  ⭐⭐⭐⭐☆ ║
-║  System Design             ███████████████░░░░░░  75%  ⭐⭐⭐⭐☆ ║
-║  Cloud & DevOps            ████████████░░░░░░░░░  65%  ⭐⭐⭐☆☆ ║
-║  AI/ML Integration         ██████████░░░░░░░░░░░  55%  ⭐⭐⭐☆☆ ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────┐
+│            🎯 EXPERTISE SNAPSHOT              │
+├──────────────────────────────────────────────┤
+│                                              │
+│ Full Stack        ██████████░ 95%  ⭐⭐⭐⭐⭐     │
+│ Frontend          ██████████░ 93%  ⭐⭐⭐⭐⭐     │
+│ Backend           █████████░░ 90%  ⭐⭐⭐⭐⭐     │
+│ DSA               █████████░░ 85%  ⭐⭐⭐⭐☆     │
+│ Databases         ████████░░░ 82%  ⭐⭐⭐⭐☆     │
+│ System Design     ███████░░░░ 75%  ⭐⭐⭐⭐☆     │
+│ Cloud & DevOps    ██████░░░░░ 65%  ⭐⭐⭐☆☆     │
+│ AI / ML           █████░░░░░░ 55%  ⭐⭐⭐☆☆     │
+│                                              │
+└──────────────────────────────────────────────┘
+
 ```
 
 </div>
@@ -974,3 +981,4 @@ if (lookingForTopTalent && needsFullStackExpert) {
 
 
 </div>
+
