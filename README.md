@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🔥+BTech+IT+%2727+·+Top+15%25+LeetCode;💻+MERN+Maestro+·+10%2B+Production+Apps;🚀+300%2B+DSA+Problems+Conquered;🏆+Building+Scalable%2C+Real-World+Products;✨+Ready+to+Transform+Your+Team+by+2027"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%94%A5+BTech+IT+%2727+%7C+Top+15%25+LeetCode;%F0%9F%92%BB+MERN+Maestro+%7C+10%2B+Production+Apps;%F0%9F%9A%80+300%2B+DSA+Problems+Conquered;%F0%9F%8F%86+Building+Scalable%2C+Real-World+Products;%E2%9C%A8+Ready+to+Transform+Your+Team+by+2027"
     alt="Animated introduction typing banner"
   />
 </p>
@@ -966,6 +966,7 @@ if (lookingForTopTalent && needsFullStackExpert) {
 <img src="https://img.shields.io/badge/Driven_by-🎯_Excellence-00D9FF?style=for-the-badge&labelColor=000"/>
 
 </div>
+
 
 
 
