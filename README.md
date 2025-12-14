@@ -24,20 +24,11 @@
 </div>
 
 <p align="center">
-
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=👀%20PROFILE%20VIEWS&color=00D9FF&style=for-the-badge&labelColor=000000"/>
-
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/PIYUSH0-7?label=👥%20FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=000000&logo=github"/>
-
-  <!-- Total Stars (WORKING) -->
-  <img src="https://img.shields.io/github/stars/PIYUSH0-7?label=⭐%20STARS&style=for-the-badge&color=FFA500&labelColor=000000&logo=github"/>
-
-  <!-- Status -->
-  <img src="https://img.shields.io/badge/STATUS-🔥%20READY%20TO%20HIRE-brightgreen?style=for-the-badge&labelColor=000000"/>
+  <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=👀+PROFILE+VIEWS&color=00D9FF&style=for-the-badge&labelColor=000" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/PIYUSH0-7?label=👥+FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=000" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/PIYUSH0-7?label=⭐+STARS&style=for-the-badge&color=FFA500&labelColor=000" alt="Stars"/>
+  <img src="https://img.shields.io/badge/STATUS-🔥_READY_TO_HIRE-brightgreen?style=for-the-badge&labelColor=000" alt="Status"/>
 </p>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -245,11 +236,8 @@ console.log(piyush.getHiringReason());
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSH0-7&custom_title=💻+CONTRIBUTION+DOMINATION&bg_color=0D1117&color=00D9FF&line=FF6B35&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&height=300" alt="Activity Graph" />
 
 ### 🏆 **Trophy Cabinet**
-<img
-  width="100%"
-  src="https://github-profile-trophy.vercel.app/?username=PIYUSH0-7&theme=tokyonight&margin-w=15&margin-h=15&v=1"
-  alt="GitHub Trophies"
-/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=PIYUSH0-7&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=10&margin-h=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews" alt="Trophies" />
 
 ### 📊 **Detailed Analytics**
 
@@ -287,21 +275,20 @@ console.log(piyush.getHiringReason());
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────┐
-│            🎯 EXPERTISE SNAPSHOT              │
-├──────────────────────────────────────────────┤
-│                                              │
-│ Full Stack        ██████████░ 95%  ⭐⭐⭐⭐⭐     │
-│ Frontend          ██████████░ 93%  ⭐⭐⭐⭐⭐     │
-│ Backend           █████████░░ 90%  ⭐⭐⭐⭐⭐     │
-│ DSA               █████████░░ 85%  ⭐⭐⭐⭐☆     │
-│ Databases         ████████░░░ 82%  ⭐⭐⭐⭐☆     │
-│ System Design     ███████░░░░ 75%  ⭐⭐⭐⭐☆     │
-│ Cloud & DevOps    ██████░░░░░ 65%  ⭐⭐⭐☆☆     │
-│ AI / ML           █████░░░░░░ 55%  ⭐⭐⭐☆☆     │
-│                                              │
-└──────────────────────────────────────────────┘
-
+╔══════════════════════════════════════════════════════════════════╗
+║                    🎯 EXPERTISE BREAKDOWN                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  Full Stack Development    ████████████████████░  95%  ⭐⭐⭐⭐⭐ ║
+║  Frontend (React/Next.js)  ████████████████████░  93%  ⭐⭐⭐⭐⭐ ║
+║  Backend (Node.js/Express) ███████████████████░░  90%  ⭐⭐⭐⭐⭐ ║
+║  Data Structures & Algo    ██████████████████░░░  85%  ⭐⭐⭐⭐☆ ║
+║  Database Management       ████████████████░░░░░  82%  ⭐⭐⭐⭐☆ ║
+║  System Design             ███████████████░░░░░░  75%  ⭐⭐⭐⭐☆ ║
+║  Cloud & DevOps            ████████████░░░░░░░░░  65%  ⭐⭐⭐☆☆ ║
+║  AI/ML Integration         ██████████░░░░░░░░░░░  55%  ⭐⭐⭐☆☆ ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -342,13 +329,6 @@ console.log(piyush.getHiringReason());
 ### 💻 **WakaTime Stats - Last 7 Days**
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 06 December 2025 - To: 13 December 2025
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 *Stats auto-update daily via GitHub Actions*
@@ -369,131 +349,124 @@ No activity tracked
 
 <table align="center" width="100%">
 <tr>
-  <th width="20%">🎯 Project</th>
-  <th width="30%">💡 Impact</th>
-  <th width="25%">⚡ Tech Stack</th>
-  <th width="15%">🔗 Live</th>
-  <th width="10%">📊 Status</th>
+<th width="20%">🎯 Project</th>
+<th width="30%">💡 Impact</th>
+<th width="25%">⚡ Tech Stack</th>
+<th width="15%">🔗 Live</th>
+<th width="10%">📊 Status</th>
 </tr>
 
 <tr>
-  <td align="center">
-    <a href="https://dev-path-tracker.vercel.app/"><b>🔥 Dev Path Tracker</b></a><br>
-    <sub><i>Featured Project</i></sub>
-  </td>
-  <td>
-    <b>500+ Active Users</b><br>
-    Full-stack developer journey tracker with analytics, progress monitoring, and gamification
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
-  </td>
-  <td align="center">
-    <a href="https://dev-path-tracker.vercel.app/">
-      <img src="https://img.shields.io/badge/LIVE-00D9FF?style=for-the-badge"/>
-    </a>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/PROD-success?style=for-the-badge"/>
-  </td>
+<td align="center">
+<a href="https://dev-path-tracker.vercel.app/"><b>🔥 Dev Path Tracker</b></a><br>
+<sub><i>Featured Project</i></sub>
+</td>
+<td>
+<b>500+ Active Users</b><br>
+Full-stack developer journey tracker with analytics, progress monitoring, and gamification
+</td>
+<td align="center">
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+</td>
+<td align="center">
+<a href="https://dev-path-tracker.vercel.app/"><img src="https://img.shields.io/badge/🌐_LIVE-00D9FF?style=for-the-badge"/></a>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/✅_PROD-success?style=for-the-badge"/>
+</td>
 </tr>
 
 <tr>
-  <td align="center">
-    <a href="https://piyush07-pi.vercel.app/"><b>💎 Portfolio 2.0</b></a><br>
-    <sub><i>Personal Brand</i></sub>
-  </td>
-  <td>
-    <b>1000+ Monthly Views</b><br>
-    Modern, responsive portfolio with smooth animations, dark mode, and performance optimization
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-  </td>
-  <td align="center">
-    <a href="https://piyush07-pi.vercel.app/">
-      <img src="https://img.shields.io/badge/LIVE-00D9FF?style=for-the-badge"/>
-    </a>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/PROD-success?style=for-the-badge"/>
-  </td>
+<td align="center">
+<a href="https://piyush07-pi.vercel.app/"><b>💎 Portfolio 2.0</b></a><br>
+<sub><i>Personal Brand</i></sub>
+</td>
+<td>
+<b>1000+ Monthly Views</b><br>
+Modern, responsive portfolio with smooth animations, dark mode, and performance optimization
+</td>
+<td align="center">
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+</td>
+<td align="center">
+<a href="https://piyush07-pi.vercel.app/"><img src="https://img.shields.io/badge/🌐_LIVE-00D9FF?style=for-the-badge"/></a>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/✅_PROD-success?style=for-the-badge"/>
+</td>
 </tr>
 
 <tr>
-  <td align="center">
-    <b>🛒 E-Commerce Pro</b><br>
-    <sub><i>Scalable Platform</i></sub>
-  </td>
-  <td>
-    <b>Production Ready</b><br>
-    Full-featured e-commerce with real-time inventory, payment integration, and admin dashboard
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/SOON-FFA500?style=for-the-badge"/>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/BUILD-yellow?style=for-the-badge"/>
-  </td>
+<td align="center">
+<b>🛒 E-Commerce Pro</b><br>
+<sub><i>Scalable Platform</i></sub>
+</td>
+<td>
+<b>Production Ready</b><br>
+Full-featured e-commerce with real-time inventory, payment integration, and admin dashboard
+</td>
+<td align="center">
+![MERN](https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🔜_SOON-FFA500?style=for-the-badge"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🔨_BUILD-yellow?style=for-the-badge"/>
+</td>
 </tr>
 
 <tr>
-  <td align="center">
-    <b>🤖 AI Vision Suite</b><br>
-    <sub><i>ML Integration</i></sub>
-  </td>
-  <td>
-    <b>AI-Powered</b><br>
-    Machine learning automation platform with computer vision and NLP capabilities
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/SOON-FFA500?style=for-the-badge"/>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/BUILD-yellow?style=for-the-badge"/>
-  </td>
+<td align="center">
+<b>🤖 AI Vision Suite</b><br>
+<sub><i>ML Integration</i></sub>
+</td>
+<td>
+<b>AI-Powered</b><br>
+Machine learning automation platform with computer vision and NLP capabilities
+</td>
+<td align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TF-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🔜_SOON-FFA500?style=for-the-badge"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🔨_BUILD-yellow?style=for-the-badge"/>
+</td>
 </tr>
 
 <tr>
-  <td align="center">
-    <a href="https://github.com/PIYUSH0-7/LeetCode-Proofs-DSA-Practice-"><b>📚 DSA Vault</b></a><br>
-    <sub><i>Knowledge Base</i></sub>
-  </td>
-  <td>
-    <b>500+ Solutions</b><br>
-    Comprehensive LeetCode solutions with explanations, patterns, and complexity analysis
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  </td>
-  <td align="center">
-    <a href="https://github.com/PIYUSH0-7/LeetCode-Proofs-DSA-Practice-">
-      <img src="https://img.shields.io/badge/VIEW-00D9FF?style=for-the-badge"/>
-    </a>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/ACTIVE-success?style=for-the-badge"/>
-  </td>
+<td align="center">
+<a href="https://github.com/PIYUSH0-7/LeetCode-Proofs-DSA-Practice-"><b>📚 DSA Vault</b></a><br>
+<sub><i>Knowledge Base</i></sub>
+</td>
+<td>
+<b>500+ Solutions</b><br>
+Comprehensive LeetCode solutions with detailed explanations, patterns, and complexity analysis
+</td>
+<td align="center">
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Py-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+</td>
+<td align="center">
+<a href="https://github.com/PIYUSH0-7/LeetCode-Proofs-DSA-Practice-"><img src="https://img.shields.io/badge/📖_VIEW-00D9FF?style=for-the-badge"/></a>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/✅_ACTIVE-success?style=for-the-badge"/>
+</td>
 </tr>
 
 </table>
-
 
 <div align="center">
 
@@ -981,7 +954,4 @@ if (lookingForTopTalent && needsFullStackExpert) {
 <img src="https://img.shields.io/badge/Powered_by-☕_Coffee-brown?style=for-the-badge&labelColor=000"/>
 <img src="https://img.shields.io/badge/Driven_by-🎯_Excellence-00D9FF?style=for-the-badge&labelColor=000"/>
 
-
 </div>
-
-
