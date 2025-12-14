@@ -23,6 +23,7 @@
 
 </div>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=👀+PROFILE+VIEWS&color=00D9FF&style=for-the-badge&labelColor=000" alt="Profile Views Counter"/>
   <img src="https://img.shields.io/github/followers/PIYUSH0-7?label=👥+FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=000" alt="GitHub Followers"/>
@@ -30,7 +31,7 @@
   <img src="https://img.shields.io/badge/STATUS-🔥_READY_TO_HIRE-brightgreen?style=for-the-badge&labelColor=000" alt="Hiring Status"/>
 </p>
 
----
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -962,5 +963,6 @@ if (lookingForTopTalent && needsFullStackExpert) {
 <img src="https://img.shields.io/badge/Driven_by-🎯_Excellence-00D9FF?style=for-the-badge&labelColor=000"/>
 
 </div>
+
 
 
