@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/STATUS-🔥_READY_TO_HIRE-brightgreen?style=for-the-badge&labelColor=000" alt="Hiring Status"/>
 </p>
 
+---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -961,4 +962,5 @@ if (lookingForTopTalent && needsFullStackExpert) {
 <img src="https://img.shields.io/badge/Driven_by-🎯_Excellence-00D9FF?style=for-the-badge&labelColor=000"/>
 
 </div>
+
 
