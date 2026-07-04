@@ -21,7 +21,7 @@ Your digital footprint represents your capability; keep your public repositories
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=%F0%9F%94%A5+BTech+IT+%2727+%7C+Top+15%25+LeetCode;%F0%9F%92%BB+MERN+Maestro+%7C+10%2B+Production+Apps;%F0%9F%9A%80+300%2B+DSA+Problems+Conquered;%F0%9F%8F%86+Building+Scalable%2C+Real-World+Products;%E2%9C%A8+Ready+to+Transform+Your+Team+by+2027"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=%F0%9F%94%A5+BTech+IT+%2727+%7C+Top+50%25+LeetCode;%F0%9F%92%BB+MERN+Maestro+%7C+10%2B+Production+Apps;%F0%9F%9A%80+300%2B+DSA+Problems+Conquered;%F0%9F%8F%86+Building+Scalable%2C+Real-World+Products;%E2%9C%A8+Ready+to+Transform+Your+Team+by+2027"
     alt="Animated introduction typing banner"
   />
 </p>
@@ -33,7 +33,7 @@ Your digital footprint represents your capability; keep your public repositories
 
 <a href="https://piyush07-pi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF6B35?style=for-the-badge&logoColor=white&labelColor=000"/></a>
 <a href="https://www.linkedin.com/in/piyush070/" target="_blank"><img src="https://img.shields.io/badge/HIRE_ME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000"/></a>
-<a href="https://leetcode.com/piyush0-7" target="_blank"><img src="https://img.shields.io/badge/LEETCODE_TOP_15%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000"/></a>
+<a href="https://leetcode.com/piyush0-7" target="_blank"><img src="https://img.shields.io/badge/LEETCODE_TOP_50%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000"/></a>
 <a href="https://github.com/PIYUSH0-7" target="_blank"><img src="https://img.shields.io/badge/EXPLORE_CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000"/></a>
 <a href="mailto:gangwarpiyush1247@gmail.com"><img src="https://img.shields.io/badge/CONTACT_NOW-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"/></a>
 
@@ -948,7 +948,7 @@ if (lookingForTopTalent && needsFullStackExpert) {
 
 <br>
 
-<sub>*Last Updated: December 2025 | Crafted with ❤️ and ☕ | Piyush Gangwar | BTech IT '27*</sub>
+<sub>*Last Updated: JULY 2026 | Crafted with ❤️ and ☕ | Piyush Gangwar | BTech IT '27*</sub>
 
 <br>
 
