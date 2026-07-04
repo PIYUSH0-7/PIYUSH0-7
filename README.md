@@ -29,7 +29,7 @@ Your digital footprint represents your capability; keep your public repositories
 
 <div align="center">
 
-### 🎯 **ACTIVELY SEEKING: SDE | Full Stack | Product Engineering Roles (2027)**
+### 🎯 **ACTIVELY SEEKING: AI SDE | AI Full Stack | Product Engineering Roles (2027)**
 
 <a href="https://piyush07-pi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF6B35?style=for-the-badge&logoColor=white&labelColor=000"/></a>
 <a href="https://www.linkedin.com/in/piyush070/" target="_blank"><img src="https://img.shields.io/badge/HIRE_ME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000"/></a>
@@ -60,7 +60,7 @@ Your digital footprint represents your capability; keep your public repositories
 
 ### **500+**
 **DSA Problems**
-Top 15% on LeetCode
+Top 50% on LeetCode
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80"/>
@@ -119,7 +119,7 @@ class EliteDeveloper {
     };
     
     public achievements = {
-        leetcode: "300+ problems | Top 15% globally",
+        leetcode: "300+ problems | Top 50% globally",
         projects: "10+ full-stack apps in production",
         github: "1000+ contributions annually",
         impact: "Real users, Real solutions"
@@ -177,7 +177,7 @@ console.log(piyush.getHiringReason());
 
 ### 💪 **COMPETITIVE EDGE**
 
-🚀 **Top 15% LeetCode** - Better than 85% globally<br>
+🚀 **Top 50% LeetCode** - Better than 50% globally<br>
 🚀 **7.5+ CGPA** - Academic excellence<br>
 🚀 **100-Day Streak** - Consistent & disciplined<br>
 🚀 **Self-Taught Pro** - Hungry for knowledge<br>
@@ -287,7 +287,7 @@ console.log(piyush.getHiringReason());
 
 <div align="center">
 
-### 🎯 **Top 15% Globally | 300+ Problems Conquered**
+### 🎯 **Top 50% Globally | 300+ Problems Conquered**
 
 <img src="https://leetcard.jacoblin.cool/piyush0-7?theme=nord&font=Ubuntu&ext=heatmap&width=800" alt="LeetCode Stats" />
 
