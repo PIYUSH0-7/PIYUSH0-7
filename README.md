@@ -4,7 +4,7 @@
 
 Your digital footprint represents your capability; keep your public repositories organized and documented.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 
