@@ -4,7 +4,7 @@
 
 Strive to build high-quality, end-to-end solutions that solve real problems for real users.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
 <!-- THOUGHT_END -->
 
