@@ -564,15 +564,6 @@ No activity tracked
 </td>
 <td width="50%">
 
-### 💼 **Industry Skills**
-
-| Skill Area | Level |
-|-----------|-------|
-| **Full Stack Development** | ████████████ 95% |
-| **Problem Solving** | ███████████░ 90% |
-| **System Architecture** | ██████████░░ 85% |
-| **DevOps & Cloud** | ████████░░░░ 70% |
-| **AI/ML Integration** | ██████░░░░░░ 60% |
 
 **🚀 Production Ready**<br>
 **💡 Always Learning**
@@ -586,23 +577,6 @@ No activity tracked
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">🏆 ACHIEVEMENTS THAT SPEAK VOLUMES</h2>
-
-<div align="center">
-
-| 🎯 Achievement | 📊 Metric | 🏅 Status |
-|:--------------|:----------|:----------|
-| **🔥 LeetCode Top Performer** | Top 15% Globally (300+ problems) | ✅ Achieved |
-| **🚀 Production Apps Deployed** | 10+ Live Applications | ✅ Active |
-| **👥 User Impact** | 500+ Active Users (Dev Path Tracker) | ✅ Growing |
-| **📈 GitHub Consistency** | 1000+ Annual Contributions | ✅ Ongoing |
-| **🎓 Academic Excellence** | 7.5+ CGPA Maintained | ✅ Consistent |
-| **💯 100-Day Coding Streak** | Disciplined Daily Practice | ✅ Maintained |
-| **📚 DSA Solutions Repository** | 500+ Documented Solutions | ✅ Published |
-| **🌐 Portfolio Excellence** | 1000+ Monthly Visitors | ✅ Live |
-| **⚡ Fast Learner** | MERN Stack in 6 Months | ✅ Mastered |
-| **🤝 Open Source Contributor** | 5+ Projects Contributed | ✅ Active |
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
