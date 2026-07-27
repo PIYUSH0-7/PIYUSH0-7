@@ -550,14 +550,6 @@ No activity tracked
 
 ### 📚 **Academic Foundation**
 
-| Subject | Performance |
-|---------|------------|
-| **Data Structures & Algorithms** | ⭐⭐⭐⭐⭐ Mastered |
-| **Database Management Systems** | ⭐⭐⭐⭐⭐ Expert |
-| **Operating Systems** | ⭐⭐⭐⭐☆ Advanced |
-| **Computer Networks** | ⭐⭐⭐⭐☆ Proficient |
-| **System Design** | ⭐⭐⭐⭐☆ Learning |
-
 **🎯 CGPA: 7.5+ / 10**<br>
 **🏆 Consistent Top Performer**
 
