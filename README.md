@@ -11,8 +11,9 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=800&color=00D9FF&center=true&vCenter=true&width=880&height=45&lines=🚀+B.Tech+IT+%2727+%7C+Aspiring+Software+Development+Engineer+(SDE);⚡+Full-Stack+Architect+%7C+Next.js+15+•+FastAPI+•+React+19+•+TypeScript;🤖+Agentic+AI+Systems+%7C+Google+Gemini+API+•+RAG+Pipelines;💡+DSA+Problem+Solver+%7C+Algorithms+%26+Complexity+Proofs+in+Python"
+    src="https://raw.githubusercontent.com/PIYUSH0-7/PIYUSH0-7/main/assets/typing.svg"
     alt="Animated typing banner"
+    width="850"
   />
 </p>
 
@@ -251,6 +252,46 @@ PIYUSH0-7 Curated GitHub Architecture
 
 ---
 
+## 🏛️ SYSTEM DESIGN & ARCHITECTURE PILLARS
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 🧩 **Enterprise Monorepos**
+- Domain-driven modular architectures
+- Shared TypeScript types & UI packages
+- Isolated dependency trees
+- Automated CI/CD build verifications
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ **High-Throughput APIs**
+- Asynchronous FastAPI & Express services
+- PostgreSQL indexing & connection pooling
+- Structured REST & GraphQL endpoints
+- Stateless JWT authentication & security
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 **Agentic AI & Vector RAG**
+- Google Gemini API function calling
+- Chunking, embeddings & vector retrieval
+- Autonomous agent tool orchestration
+- Streaming responses & prompt caching
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🐍 AUTOMATED CONTRIBUTION GRAPH (SNAKE ANIMATION)
 
 <div align="center">
@@ -353,53 +394,16 @@ PIYUSH0-7 Curated GitHub Architecture
 
 ---
 
-## 💼 DREAM COMPANIES - WHERE I AIM TO CONTRIBUTE
+## 📋 OPPORTUNITY READINESS MATRIX
 
 <div align="center">
 
-### 🎯 **TARGET: TIER-1 TECH COMPANIES**
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-#### 🌟 **FAANG / TIER 1**
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![Amazon](https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-#### 💎 **PRODUCT LEADERS**
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-#### 🚀 **HIGH-GROWTH STARTUPS**
-![Flipkart](https://img.shields.io/badge/Flipkart-2874F0?style=for-the-badge&logo=flipkart&logoColor=white)
-![Zomato](https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white)
-![Swiggy](https://img.shields.io/badge/Swiggy-FC8019?style=for-the-badge&logo=swiggy&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-### 📋 **OPPORTUNITY READINESS MATRIX**
-
-| Opportunity Type | Availability | Timeline |
-|:----------------|:-------------|:---------|
-| **🎯 Full-Time SDE Roles** | ✅ READY | July 2027 Grad |
-| **☀️ Summer Internships** | ✅ OPEN | Summer 2026 |
-| **💼 SaaS Client Engineering** | ✅ AVAILABLE | Immediate |
-| **🤝 Open Source Contributions** | ✅ ACTIVE | Ongoing |
-| **🌍 Relocation** | ✅ FLEXIBLE | Anywhere |
+| Opportunity Type | Availability | Timeline | Work Modes |
+|:----------------|:-------------|:---------|:-----------|
+| **🎯 Full-Time SDE Roles** | ✅ READY | July 2027 Grad | Remote / Hybrid / On-site / Relocation |
+| **☀️ Summer Internships** | ✅ OPEN | Summer 2026 | Full-Stack, Backend, AI Engineering |
+| **💼 SaaS Product Engineering** | ✅ AVAILABLE | Immediate | Architecture & Feature Delivery |
+| **🤝 Open Source Contributions** | ✅ ACTIVE | Ongoing | Modern Web & Developer Tooling |
 
 </div>
 

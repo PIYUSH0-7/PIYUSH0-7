@@ -1,0 +1,44 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 60" width="850" height="60">
+  <style>
+    .terminal-text {
+      font-family: 'Fira Code', 'Courier New', Courier, monospace;
+      font-size: 20px;
+      font-weight: 700;
+      fill: #00D9FF;
+    }
+    .cursor {
+      font-family: 'Fira Code', monospace;
+      font-size: 20px;
+      font-weight: 700;
+      fill: #FF6B35;
+      animation: blink 0.8s infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .slide {
+      animation: cycleText 12s infinite;
+    }
+    @keyframes cycleText {
+      0%, 22% { opacity: 1; }
+      25%, 97% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    .t1 { animation: t1 12s infinite; }
+    .t2 { animation: t2 12s infinite; }
+    .t3 { animation: t3 12s infinite; }
+    .t4 { animation: t4 12s infinite; }
+    @keyframes t1 { 0%, 22% { opacity: 1; } 25%, 100% { opacity: 0; } }
+    @keyframes t2 { 0%, 24% { opacity: 0; } 25%, 47% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes t3 { 0%, 49% { opacity: 0; } 50%, 72% { opacity: 1; } 75%, 100% { opacity: 0; } }
+    @keyframes t4 { 0%, 74% { opacity: 0; } 75%, 97% { opacity: 1; } 100% { opacity: 0; } }
+  </style>
+  <rect width="100%" height="100%" fill="none"/>
+  <g transform="translate(425, 38)" text-anchor="middle">
+    <text class="terminal-text t1">🚀 B.Tech IT '27 | Aspiring Software Development Engineer (SDE)</text>
+    <text class="terminal-text t2">⚡ Full-Stack Architect | Next.js 15 • FastAPI • React 19 • TypeScript</text>
+    <text class="terminal-text t3">🤖 Agentic AI Systems | Google Gemini API • RAG Vector Pipelines</text>
+    <text class="terminal-text t4">💡 DSA Problem Solver | Algorithms &amp; Complexity Proofs in Python</text>
+  </g>
+</svg>
