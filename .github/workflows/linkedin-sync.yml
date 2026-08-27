@@ -1,0 +1,31 @@
+﻿name: Sync GitHub Updates to LinkedIn
+
+on:
+  schedule:
+    # Runs every Sunday at 6 PM IST (12:30 UTC)
+    - cron: '30 12 * * 0'
+  workflow_dispatch:
+
+jobs:
+  broadcast:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests beautifulsoup4 playwright
+          playwright install chromium
+
+      - name: Broadcast Engineering Update
+        env:
+          LINKEDIN_LI_AT: ${{ secrets.LINKEDIN_LI_AT }}
+          LINKEDIN_JSESSIONID: ${{ secrets.LINKEDIN_JSESSIONID }}
+        run: |
+          python scripts/linkedin_broadcast.py
