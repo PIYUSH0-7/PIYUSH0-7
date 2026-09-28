@@ -4,7 +4,7 @@
 
 A developer's personal brand is defined by their consistency, curiosity, and the impact of the systems they build.
 
-*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
